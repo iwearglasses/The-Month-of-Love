@@ -55,10 +55,6 @@
         <button class="valentine-btn" onclick="nobuttonAction()">No Button </button>
     </div>
    
-    {floatingEmojis: {
-        hearts: ['❤️', '🍆', '💝', '🫦', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
-    },  
     <script>
         function yesbuttonAction() {
             alert("You pressed Yes! Slow kissies 3xs/wk 🍆🫦");
@@ -72,4 +68,17 @@
         }
     </script>
 </body>
+<body>
+    <h1>Ready for Fellatio February?! 💖</h1>
+    <p>Click the right button and you might get what you want!</p>
 
+    <div class="button-container">
+        <button class="valentine-btn" onclick="yesbuttonAction()">Yes Button</button>
+        <button class="valentine-btn" onclick="nobuttonAction()">No Button</button>
+    </div>
+
+    <!-- Add floating emojis script here -->
+    <script>
+        // ... JavaScript code I sent for floating emojis ...
+    </script>
+</body>
