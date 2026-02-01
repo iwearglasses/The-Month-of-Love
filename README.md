@@ -1,5 +1,5 @@
-CONFIG = {
-    valentineName: "Breyon",
+ {
+valentineName: "Breyon",
     <html lang="en">
 <head>
     <meta charset="UTF-8">
