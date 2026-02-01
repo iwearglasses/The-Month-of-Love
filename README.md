@@ -54,11 +54,9 @@
         <!-- No Button  -->
         <button class="valentine-btn" onclick="nobuttonAction()">No Button </button>
     </div>
-    
-// Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org
+   
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '🍆', '💝', '🫦', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },  
     <script>
