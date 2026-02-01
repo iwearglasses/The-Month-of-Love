@@ -1,7 +1,6 @@
-# VDAY26
-Something cute and simple.
 <!DOCTYPE html>
-head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Valentine's Day Surprise</title>
@@ -47,13 +46,13 @@ head>
 </head>
 <body>
     <h1>Ready for Fellatio February?! 💖</h1>
-    <p>Click the right button and you might get what you want!</p>
+    <p>Click the right button and you might get what you want.!</p>
 
     <div class="button-container">
-        <!-- SI -->
+        <!-- Button 1 -->
         <button class="valentine-btn" onclick="button1Action()">Button 1</button>
 
-        <!-- NO -->
+        <!-- Button 2 -->
         <button class="valentine-btn" onclick="button2Action()">Button 2</button>
     </div>
 
