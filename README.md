@@ -91,7 +91,7 @@
 
         // Button actions
         function yesbuttonAction() {
-            alert("You pressed Yes! Slow kissies 3xs/wk 🍆🫦");
+            alert("You pressed Yes! Weekly Smooches all over. 🍆🫦");
         }
 
         function nobuttonAction() {
