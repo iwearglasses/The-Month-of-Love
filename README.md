@@ -68,7 +68,7 @@
     </div>
 
     <script>
-        const emojis = ['❤️', '🍆', '💝', '🫦', '💓', '🧸', '🐻'];
+        const emojis = ['❤️', '🍆', '💝', '🫦', '💓', '💋', '🐻'];
 
         function createEmoji() {
             const emoji = document.createElement('div');
@@ -95,7 +95,7 @@
         }
 
         function nobuttonAction() {
-            alert("You pressed No! I guess I'll look and not touch.");
+            alert("You pressed No! I guess it's your turn this month.");
         }
     </script>
 </body>
