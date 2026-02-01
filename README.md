@@ -50,10 +50,10 @@ head>
     <p>Click the right button and you might get what you want!</p>
 
     <div class="button-container">
-        <!-- SI! -->
+        <!-- SI -->
         <button class="valentine-btn" onclick="button1Action()">Button 1</button>
 
-        <!-- NO. -->
+        <!-- NO -->
         <button class="valentine-btn" onclick="button2Action()">Button 2</button>
     </div>
 
