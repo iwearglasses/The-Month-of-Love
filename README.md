@@ -1,5 +1,3 @@
-# VDAY26
-Something cute and simple.
 <!DOCTYPE html>
 <html lang="en">
 <head>
